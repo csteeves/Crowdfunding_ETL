@@ -12,14 +12,14 @@ The tools that I used were jupyter notebook, pandas, regex, and sql.
 
 **Goals**
 
-*Create the Category and Subcategory DataFrames
-*Extract and transform
-*Create the Campaign DataFrame
-*Extract and transform
-*Create the Contacts DataFrame
-*Extracting and transforming
-*Create the Crowdfunding Database in SQL
-*Import tables
+* Create the Category and Subcategory DataFrames
+* Extract and transform
+* Create the Campaign DataFrame
+* Extract and transform
+* Create the Contacts DataFrame
+* Extracting and transforming
+* Create the Crowdfunding Database in SQL
+* Import tables
 
 **Outcome**
 
